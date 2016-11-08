@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: aba5fb6b16046764db2e6e155b0cffcd
+timeCreated: 1474252271
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ikHandle2
+    100002: ikHandle3
+    100004: ikHandle4
+    100006: ikHandle5
+    100008: ikHandle6
+    100010: joint1
+    100012: joint11
+    100014: joint12
+    100016: joint13
+    100018: joint14
+    100020: joint15
+    100022: joint16
+    100024: joint17
+    100026: joint18
+    100028: joint19
+    100030: joint2
+    100032: joint20
+    100034: joint21
+    100036: joint22
+    100038: joint23
+    100040: joint24
+    100042: joint25
+    100044: joint26
+    100046: joint27
+    100048: joint28
+    100050: joint29
+    100052: joint3
+    100054: joint30
+    100056: joint31
+    100058: joint32
+    100060: joint33
+    100062: joint34
+    100064: joint35
+    100066: joint36
+    100068: joint37
+    100070: joint38
+    100072: joint39
+    100074: joint4
+    100076: joint40
+    100078: joint41
+    100080: joint42
+    100082: joint43
+    100084: joint44
+    100086: joint45
+    100088: joint46
+    100090: joint47
+    100092: joint48
+    100094: joint49
+    100096: joint5
+    100098: joint50
+    100100: joint51
+    100102: joint52
+    100104: joint53
+    100106: joint55
+    100108: joint56
+    100110: joint57
+    100112: joint58
+    100114: joint59
+    100116: joint6
+    100118: joint60
+    100120: nurbsCircle1
+    100122: nurbsCircle2
+    100124: nurbsCircle3
+    100126: nurbsCircle4
+    100128: nurbsCircle5
+    100130: Three_witches:tri_witch1
+    100132: //RootNode
+    400000: ikHandle2
+    400002: ikHandle3
+    400004: ikHandle4
+    400006: ikHandle5
+    400008: ikHandle6
+    400010: joint1
+    400012: joint11
+    400014: joint12
+    400016: joint13
+    400018: joint14
+    400020: joint15
+    400022: joint16
+    400024: joint17
+    400026: joint18
+    400028: joint19
+    400030: joint2
+    400032: joint20
+    400034: joint21
+    400036: joint22
+    400038: joint23
+    400040: joint24
+    400042: joint25
+    400044: joint26
+    400046: joint27
+    400048: joint28
+    400050: joint29
+    400052: joint3
+    400054: joint30
+    400056: joint31
+    400058: joint32
+    400060: joint33
+    400062: joint34
+    400064: joint35
+    400066: joint36
+    400068: joint37
+    400070: joint38
+    400072: joint39
+    400074: joint4
+    400076: joint40
+    400078: joint41
+    400080: joint42
+    400082: joint43
+    400084: joint44
+    400086: joint45
+    400088: joint46
+    400090: joint47
+    400092: joint48
+    400094: joint49
+    400096: joint5
+    400098: joint50
+    400100: joint51
+    400102: joint52
+    400104: joint53
+    400106: joint55
+    400108: joint56
+    400110: joint57
+    400112: joint58
+    400114: joint59
+    400116: joint6
+    400118: joint60
+    400120: nurbsCircle1
+    400122: nurbsCircle2
+    400124: nurbsCircle3
+    400126: nurbsCircle4
+    400128: nurbsCircle5
+    400130: Three_witches:tri_witch1
+    400132: //RootNode
+    4300000: Three_witches:tri_witch1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Three_witches:tri_witch1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint29
+        weight: 1
+      - path: joint1/joint2/joint29/joint55
+        weight: 1
+      - path: joint1/joint2/joint29/joint55/joint56
+        weight: 1
+      - path: joint1/joint2/joint29/joint55/joint56/joint50
+        weight: 1
+      - path: joint1/joint2/joint29/joint55/joint56/joint50/joint51
+        weight: 1
+      - path: joint1/joint2/joint29/joint55/joint56/joint50/joint51/joint52
+        weight: 1
+      - path: joint1/joint2/joint29/joint55/joint56/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: joint1/joint2/joint30
+        weight: 1
+      - path: joint1/joint2/joint30/joint31
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint16/joint17/joint18/joint19
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint20
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint20/joint21
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint20/joint21/joint22
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint24
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint24/joint25
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint24/joint25/joint26
+        weight: 1
+      - path: joint1/joint2/joint30/joint31/joint28/joint13/joint14/joint15/joint24/joint25/joint26/joint27
+        weight: 1
+      - path: joint1/joint2/joint32
+        weight: 1
+      - path: joint1/joint2/joint32/joint33
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint42
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint42/joint43
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint42/joint43/joint44
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint46
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint46/joint47
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint46/joint47/joint48
+        weight: 1
+      - path: joint1/joint2/joint32/joint33/joint34/joint35/joint36/joint37/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: joint1/joint11
+        weight: 1
+      - path: joint1/joint11/joint12
+        weight: 1
+      - path: joint1/joint11/joint12/joint3
+        weight: 1
+      - path: joint1/joint11/joint12/joint3/joint4
+        weight: 1
+      - path: joint1/joint11/joint12/joint3/joint4/joint5
+        weight: 1
+      - path: joint1/joint11/joint12/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint11/joint12/joint57
+        weight: 1
+      - path: joint1/joint11/joint12/joint57/joint58
+        weight: 1
+      - path: joint1/joint11/joint12/joint57/joint58/joint59
+        weight: 1
+      - path: joint1/joint11/joint12/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/ikHandle5
+        weight: 1
+      - path: nurbsCircle2
+        weight: 1
+      - path: nurbsCircle2/ikHandle6
+        weight: 1
+      - path: nurbsCircle3
+        weight: 1
+      - path: nurbsCircle3/ikHandle2
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: nurbsCircle4/ikHandle4
+        weight: 1
+      - path: nurbsCircle5
+        weight: 1
+      - path: nurbsCircle5/ikHandle3
+        weight: 1
+      - path: Three_witches:tri_witch1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 326c8e28f5384834690c1a8058456eb1
+timeCreated: 1473617653
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrel:pCube36
+    100002: barrel:pCube45
+    100004: barrel:pPipe1
+    100006: barrel:pPipe2
+    100008: barrel:pPipe3
+    100010: barrel:pPipe4
+    100012: body
+    100014: group1
+    100016: hat1
+    100018: hat2
+    100020: hat3
+    100022: hat4
+    100024: left_arm1
+    100026: left_arm2
+    100028: left_arm3
+    100030: lower_body1
+    100032: lower_body2
+    100034: pCylinder1
+    100036: right_arm1
+    100038: right_arm2
+    100040: right_arm3
+    100042: root
+    100044: //RootNode
+    400000: barrel:pCube36
+    400002: barrel:pCube45
+    400004: barrel:pPipe1
+    400006: barrel:pPipe2
+    400008: barrel:pPipe3
+    400010: barrel:pPipe4
+    400012: body
+    400014: group1
+    400016: hat1
+    400018: hat2
+    400020: hat3
+    400022: hat4
+    400024: left_arm1
+    400026: left_arm2
+    400028: left_arm3
+    400030: lower_body1
+    400032: lower_body2
+    400034: pCylinder1
+    400036: right_arm1
+    400038: right_arm2
+    400040: right_arm3
+    400042: root
+    400044: //RootNode
+    2300000: barrel:pCube36
+    2300002: barrel:pCube45
+    2300004: barrel:pPipe1
+    2300006: barrel:pPipe2
+    2300008: barrel:pPipe3
+    2300010: barrel:pPipe4
+    3300000: barrel:pCube36
+    3300002: barrel:pCube45
+    3300004: barrel:pPipe1
+    3300006: barrel:pPipe2
+    3300008: barrel:pPipe3
+    3300010: barrel:pPipe4
+    4300000: pCylinder1
+    4300002: barrel:pPipe3
+    4300004: barrel:pCube36
+    4300006: barrel:pCube45
+    4300008: barrel:pPipe1
+    4300010: barrel:pPipe2
+    4300012: barrel:pPipe4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCylinder1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/barrel:pCube36
+        weight: 1
+      - path: group1/barrel:pCube45
+        weight: 1
+      - path: group1/barrel:pPipe1
+        weight: 1
+      - path: group1/barrel:pPipe2
+        weight: 1
+      - path: group1/barrel:pPipe3
+        weight: 1
+      - path: group1/barrel:pPipe4
+        weight: 1
+      - path: pCylinder1
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/hat1
+        weight: 1
+      - path: root/hat1/hat2
+        weight: 1
+      - path: root/hat1/hat2/hat3
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/left_arm1
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/left_arm1/left_arm2
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/left_arm1/left_arm2/left_arm3
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/lower_body1
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/lower_body1/lower_body2
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/right_arm3
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/right_arm3/right_arm2
+        weight: 1
+      - path: root/hat1/hat2/hat3/hat4/body/right_arm3/right_arm2/right_arm1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 2f88eec1eb8b7844a8dd1e80d3f79239
+timeCreated: 1473709960
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: barrel:pCube36
+    100004: barrel:pCube45
+    100006: barrel:pPipe1
+    100008: barrel:pPipe2
+    100010: barrel:pPipe3
+    100012: barrel:pPipe4
+    100014: //RootNode
+    100016: ikHandle1
+    100018: ikHandle2
+    100020: ikHandle3
+    100022: ikHandle4
+    100024: ikHandle5
+    100026: joint1
+    100028: joint10
+    100030: joint11
+    100032: joint12
+    100034: joint13
+    100036: joint14
+    100038: joint15
+    100040: joint2
+    100042: joint3
+    100044: joint4
+    100046: joint5
+    100048: joint6
+    100050: joint7
+    100052: joint8
+    100054: joint9
+    100056: Mushie
+    400000: Barrel
+    400002: barrel:pCube36
+    400004: barrel:pCube45
+    400006: barrel:pPipe1
+    400008: barrel:pPipe2
+    400010: barrel:pPipe3
+    400012: barrel:pPipe4
+    400014: //RootNode
+    400016: ikHandle1
+    400018: ikHandle2
+    400020: ikHandle3
+    400022: ikHandle4
+    400024: ikHandle5
+    400026: joint1
+    400028: joint10
+    400030: joint11
+    400032: joint12
+    400034: joint13
+    400036: joint14
+    400038: joint15
+    400040: joint2
+    400042: joint3
+    400044: joint4
+    400046: joint5
+    400048: joint6
+    400050: joint7
+    400052: joint8
+    400054: joint9
+    400056: Mushie
+    2300000: barrel:pCube36
+    2300002: barrel:pCube45
+    2300004: barrel:pPipe1
+    2300006: barrel:pPipe2
+    2300008: barrel:pPipe3
+    2300010: barrel:pPipe4
+    3300000: barrel:pCube36
+    3300002: barrel:pCube45
+    3300004: barrel:pPipe1
+    3300006: barrel:pPipe2
+    3300008: barrel:pPipe3
+    3300010: barrel:pPipe4
+    4300000: Mushie
+    4300002: barrel:pCube36
+    4300004: barrel:pPipe1
+    4300006: barrel:pCube45
+    4300008: barrel:pPipe2
+    4300010: barrel:pPipe4
+    4300012: barrel:pPipe3
+    7400000: Hide
+    9500000: //RootNode
+    13700000: Mushie
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hide
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Barrel/barrel:pCube36
+        weight: 1
+      - path: Barrel/barrel:pCube45
+        weight: 1
+      - path: Barrel/barrel:pPipe1
+        weight: 1
+      - path: Barrel/barrel:pPipe2
+        weight: 1
+      - path: Barrel/barrel:pPipe3
+        weight: 1
+      - path: Barrel/barrel:pPipe4
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle4
+        weight: 1
+      - path: ikHandle5
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint4
+        weight: 1
+      - path: joint1/joint4/joint5
+        weight: 1
+      - path: joint1/joint4/joint5/joint6
+        weight: 1
+      - path: joint1/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: joint1/joint8
+        weight: 1
+      - path: joint1/joint8/joint9
+        weight: 1
+      - path: joint1/joint8/joint9/joint10
+        weight: 1
+      - path: joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: joint1/joint12
+        weight: 1
+      - path: joint1/joint12/joint13
+        weight: 1
+      - path: joint1/joint12/joint13/joint14
+        weight: 1
+      - path: joint1/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: Mushie
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
